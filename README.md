@@ -11,7 +11,7 @@ Sample charts will be added under `samples/`.
 These four mirror the output formats of live macro dashboards. All values are placeholders, dates are relative, thresholds are illustrative, and component lists and backtest calibration are omitted. Format is real; readings are not.
 
 ### Recession Risk Dashboard
-![Recession risk dashboard — synthetic sample](IMG_0010.png)
+![Recession risk dashboard — synthetic sample](IMG_0009.png)
 
 ### Macro Health Index vs Reference Equity
 ![Macro health index — synthetic sample](IMG_0008.png)
